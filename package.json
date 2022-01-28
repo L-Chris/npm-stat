@@ -1,0 +1,13 @@
+{
+  "name": "npm-stat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:L-Chris/npm-stat.git",
+  "author": "梁嘉辉 <chrisliang@kugou.net>",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.3.0",
+    "dayjs": "^1.10.7",
+    "npm-stats-api": "^1.2.2"
+  }
+}
